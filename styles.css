@@ -1,0 +1,15 @@
+* {
+  text-decoration: none;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.btn-hover-vagas:hover {
+  background-color: #dfdfdf !important;
+}

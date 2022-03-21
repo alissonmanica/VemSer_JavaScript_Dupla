@@ -1,0 +1,57 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "tipo": "trabalhador",
+      "nome": "Alisson Manica",
+      "dataNascimento": "22/03/2000",
+      "email": "alissonmanica@gmail.com",
+      "senha": "123",
+      "candidaturas": []
+    },
+    {
+      "id": 2,
+      "tipo": "recrutador",
+      "nome": "Guilherme Denck",
+      "dataNascimento": "03/03/2004",
+      "email": "guidenck0303@gmail.com",
+      "senha": "123",
+      "candidaturas": []
+    },
+    {
+      "id": 3,
+      "tipo": "trabalhador",
+      "nome": "trabalhador",
+      "dataNascimento": "03/03/2004",
+      "email": "trabalhador@gmail.com",
+      "senha": "123",
+      "candidaturas": []
+    },
+    {
+      "id": 4,
+      "tipo": "trabalhador",
+      "nome": "Jubileu",
+      "dataNascimento": "22/03/2000",
+      "email": "jubileu@gmail.com",
+      "senha": "123",
+      "candidaturas": []
+    }
+  ],
+  "candidaturas": [],
+  "vagas": [
+    {
+      "id": 1,
+      "titulo": "React Junior - front end",
+      "descricao": "Procuro dev junior com experiência em React js",
+      "remuneracao": "R$ 4000.00",
+      "candidatos": []
+    },
+    {
+      "id": 2,
+      "titulo": "Java SpringBoot Junior - backend",
+      "descricao": "Procuro dev java com experiência em SpringBoot",
+      "remuneracao": "R$ 4000.00",
+      "candidatos": []
+    }
+  ]
+}
